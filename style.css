@@ -1,0 +1,49 @@
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #918e8e;
+}
+
+.container {
+    text-align: center;
+    background-color: #0074cc;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 24px;
+}
+
+button {
+    background-color: #005ea6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: #004182;
+}
+
+#notes-container {
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    gap: 20px;
+   
+   
+}
+
+
+#imageedit {
+    height: 50px;
+    align-items: center;
+}
+
